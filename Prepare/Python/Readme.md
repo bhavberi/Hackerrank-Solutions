@@ -11,4 +11,4 @@ Regards,
 
 | Name | Problem Link | Difficulty | Solution | SubDomain |
 | -------------- | ------------ | ----------- | --------- | ------------ |
-| Hello World | [Click Me] (https://www.hackerrank.com/challenges/py-hello-world/problem) | Easy | [Here] (Introduction/Hello_World.py) | Introduction |
+| Hello World | [Click Me](https://www.hackerrank.com/challenges/py-hello-world/problem) | Easy | [Here](Introduction/Hello_World.py) | Introduction |
